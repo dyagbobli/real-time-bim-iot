@@ -1,0 +1,19 @@
+{
+  "sensors": {
+    "sensor-1": {
+      "temp": 23.5,
+      "humidity": 55.2,
+      "meta": {
+        "name": "Living Room",
+        "description": "DHT22 sensor in the living room",
+        "groupName": "Level 1",
+        "location": {
+          "x": 31.92,
+          "y": 11.49,
+          "z": -12.97
+        },
+        "objectId": 4124
+      }
+    }
+  }
+}
